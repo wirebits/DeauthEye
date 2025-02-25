@@ -1,6 +1,6 @@
 /*
  * DeauthEye
- * A tool that detects deauthentication attacks on 2.4GHz and 5GHz WiFi using BW16.
+ * A tool that detects deauthentication attacks on WiFi using BW16.
  * Author - WireBits
  */
 
