@@ -3,7 +3,6 @@ A tool that detects deauthentication attacks on WiFi using BW16.
 
 # Key Features
 - Minimal Setup.
-- It reconnect to the wifi automatically after deauthentication attack.
 - It detects deauthentication attacks on 2.4GHz and 5GHz both.
 
 # Hardware Requirements
